@@ -2,7 +2,7 @@
 
 The *ZeroClipboard* JavaScript library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie.  The "Zero" signifies that the library is invisible and the user interface is left entirely up to you.
 
-Browsers won't let you access the clipboard directly. So this libraby puts a flash object on the page to proxy the clipboard for you. The library will move and resize over all the glued objects.
+Browsers won't let you access the clipboard directly. So this library puts a flash object on the page to proxy the clipboard for you. The library will move and resize over all the glued objects.
 
 ## Setup
 
